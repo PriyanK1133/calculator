@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit&family=Montserrat&display=swap');
+*{
+    margin:0;
+    padding:0;
+   
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 70px;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 27px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
